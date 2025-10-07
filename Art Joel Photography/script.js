@@ -1,1 +1,0 @@
-// You can later add animations or a gallery filter here.
